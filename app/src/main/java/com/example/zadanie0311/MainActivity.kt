@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
 
             }
             else{
-                FirstEl.text = "stos jest pusty"
+                FirstEl.text = "stos jest pusty!"
             }
         }
     }
